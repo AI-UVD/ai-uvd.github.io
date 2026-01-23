@@ -3,7 +3,7 @@ layout: default
 title: What We Don’t Do
 card: true
 card-sort: 30
-card-image: https://images.unsplash.com/photo-1762715461103-cf7f03090c93?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+card-image: "https://images.unsplash.com/photo-1762715461103-cf7f03090c93?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 card-heading: What We Don’t Do
 card-subheading: Explicit boundaries and exclusions
 card-description: Clear statements on work that is not undertaken, to prevent ambiguity and misalignment.
