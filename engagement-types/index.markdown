@@ -1,110 +1,137 @@
 ---
 layout: default
-page-title: >
-    Engagement Types
-page-image: 'https://images.unsplash.com/photo-1547156306-383679f4e4e4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+title: Engagement Types
+highlight: true
+highlight-sort: 20
+highlight-image: https://images.unsplash.com/photo-1744661052334-6085e8b77151?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+highlight-heading: Engagement Types
+highlight-subheading: Defined forms of applied intelligence delivery
 nav-type: right
-nav-title: 'Engagement Types'
-nav-sort: 2
-hero: false
-hero-image: 
-hero-heading: 
-hero-subheading: 
-hero-button: 
-card: true
-card-image: 'https://images.unsplash.com/photo-1547156306-383679f4e4e4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-card-heading: 'Engagement Types'
-card-subheading: 'How this work is applied in practice'
-card-description: >
-    An overview of the different ways I engage with organisations, from early problem framing through architectural stewardship and independent technical authority. This page explains how support is shaped by context, maturity, and decision risk rather than fixed offerings.
-card-button: 'Read more'
-card-sort: 2
-highlight: false
-highlight-image: 
-highlight-heading: 
-highlight-subheading: 
-highlight-sort: 0
+nav-title: Engagement Types
+nav-sort: 20
 sitemap: left
 sitemap-heading: Engagement Types
-sitemap-sort: 3
+sitemap-sort: 20
 breadcrumbs: true
-breadcrumbs-title: Engagement Types
-breadcrumbs-hidelast: true
 ---
 
-# Engagement Types
+## Engagement Types
 
-## How this work is applied in practice
+AI UVD Limited undertakes work through a small number of clearly defined engagement types.
 
-The work described across this site can be applied in different ways depending on context, maturity, and need. Rather than offering fixed packages or prescriptive services, engagements are shaped around the type of support required and the level at which decisions are being made.
+Each engagement type exists to:
+- remove ambiguity
+- bound responsibility
+- clarify commercial terms
+- ensure delivery remains defensible
 
-This page outlines the most common engagement types and how they typically operate.
+Work is only undertaken where it fits one of the engagement forms below.
 
-### Problem Framing & Discovery Engagements
+---
 
-These engagements focus on understanding the problem space before significant commitment is made.
+## Executive Technical Authority (On-Demand)
 
-They are often used when:
-- a proposed initiative feels urgent but unclear
-- multiple stakeholders hold different views of the problem
-- previous attempts have stalled or created friction
-- the cost of getting it wrong would be difficult to unwind
+This engagement provides time-bounded access to senior applied intelligence capability.
 
-The emphasis is on clarifying intent, surfacing assumptions, identifying constraints, and determining where architectural judgement is most needed.
+Typically used when:
+- decisions must be made under uncertainty
+- internal teams need authoritative input
+- accountability must remain clear
 
-Some discovery engagements lead directly into longer work. Others deliberately conclude once clarity has been achieved.
+Characteristics:
+- explicitly time-based
+- no open-ended advisory
+- no implied delivery outside agreed scope
 
-### Architectural Strategy & Stewardship Engagements
+This engagement does not create an employment-like relationship.
 
-These engagements support systems that are already in motion and require ongoing coherence as they evolve.
+---
 
-They are typically appropriate when:
-- multiple teams or departments are involved
-- systems are long-lived or business critical
-- architectural decisions are being made incrementally
-- delivery pressure risks eroding long-term intent
+## Fixed-Scope Delivery
 
-The role here is to maintain architectural direction, revisit earlier decisions as assumptions change, and provide continuity across delivery phases, teams, and vendors.
+This engagement is used where outcomes can be clearly defined in advance.
 
-This work often runs alongside delivery without becoming embedded within it.
+Typically used when:
+- the problem is sufficiently understood
+- success criteria can be stated
+- responsibility must be carried through to completion
 
-### Independent Technical Authority Engagements
+Characteristics:
+- defined scope and deliverables
+- agreed milestones or acceptance criteria
+- fixed commercial terms
 
-These engagements provide independent judgement where complexity, risk, or uncertainty is high.
+Changes to scope require explicit agreement.
 
-They are commonly used when:
-- decisions have significant long-term impact
-- responsibility for architectural judgement is unclear
-- multiple parties or suppliers are involved
-- senior leaders require a neutral technical perspective
+---
 
-In this context, the focus is on assessment, challenge, and guidance rather than execution. Independence ensures that advice remains objective and that decision-making responsibility stays with the organisation.
+## Milestone-Based Execution
 
-### Future-Ready System Design Engagements
+This engagement is used where work must progress in controlled stages.
 
-These engagements focus on ensuring that systems can adapt as conditions change.
+Typically used when:
+- complexity is high
+- risk must be managed incrementally
+- validation is required between stages
 
-They are most relevant when:
-- systems are expected to evolve over many years
-- new capabilities are emerging but timing is uncertain
-- flexibility must be balanced against stability
-- premature optimisation would introduce unnecessary risk
+Characteristics:
+- discrete milestones
+- staged commercial commitments
+- clear stop / continue decision points
 
-The emphasis is on design decisions that preserve optionality, clarify boundaries, and allow systems to grow without destabilisation.
+This structure exists to preserve optionality while maintaining discipline.
 
-### Combining engagement types
+---
 
-These engagement types are not mutually exclusive.
+## Stabilisation and Recovery
 
-In practice, work often begins with problem framing, continues through architectural stewardship, and is supported by independent technical authority at key decision points.
+This engagement is used in situations requiring rapid intervention.
 
-The combination and duration depend on context rather than preference. Some engagements are brief and targeted. Others are deliberately long-running to provide continuity.
+Typically used when:
+- delivery is failing
+- systems are unstable
+- responsibility has become unclear
 
-### Defining the right engagement
+Characteristics:
+- time-critical
+- tightly bounded
+- focused on restoring control and forward momentum
 
-Choosing the right engagement type is itself a framing exercise.
+Long-term work, if any, is contracted separately.
 
-In some cases, the most valuable outcome is proceeding with confidence. In others, it is reshaping an initiative or deciding not to proceed at all.
+---
 
-The aim across all engagement types is the same. To ensure that technical decisions are made deliberately, responsibly, and in service of long-term outcomes.
+## Bounded Ongoing Support
 
+This engagement is used where continuity is required after delivery.
+
+Typically used when:
+- systems require oversight
+- operational support must remain available
+- responsibility must stay defined
+
+Characteristics:
+- explicitly bounded
+- contractually clear
+- reviewed periodically
+
+There is no assumption of permanence or exclusivity.
+
+---
+
+## Engagement discipline
+
+AI UVD Limited does not mix engagement types informally.
+
+Each engagement is:
+- explicitly selected
+- contractually defined
+- commercially clear
+
+If work does not fit an engagement type, it is not undertaken.
+
+---
+
+## Next steps
+
+Commercial structure, scoping discipline, and engagement boundaries are described in more detail under **How We Engage**.

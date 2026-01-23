@@ -4,7 +4,7 @@
 
 layout: home
 page-title: >
-    Independent Solutions Architect & System Author
+    Applied Intelligence - Unified Vector for Delivery
 sitemap: left
 sitemap-heading: Home
 sitemap-sort: 1
