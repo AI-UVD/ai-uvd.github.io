@@ -5,8 +5,8 @@
 layout: home
 page-title: >
     Applied Intelligence - Unified Vector for Delivery
-sitemap: left
-sitemap-heading: Home
-sitemap-sort: 1
+sitemap: 
+sitemap-heading: 
+sitemap-sort: 
 
 ---
