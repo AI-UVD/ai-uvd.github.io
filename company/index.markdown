@@ -15,7 +15,7 @@ nav-sort: 50
 sitemap: right
 sitemap-heading: Company
 sitemap-sort: 10
-breadcrumbs: true
+breadcrumbs: false
 ---
 
 ## Company

@@ -6,7 +6,7 @@ layout: root
 </div>
 <div class="container mw-lg p-4">
     {% include breadcrumbs.html hidelast=page.breadcrumbs-hidelast %}
-    <div class="liquid-content columns">
+    <div class="liquid-content columns-old">
         {{content}}
     </div>
     <hr class="mt-5 d-none d-sm-block"/>

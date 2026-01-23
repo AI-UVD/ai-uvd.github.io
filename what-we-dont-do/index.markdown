@@ -12,7 +12,7 @@ card-button: Read more
 sitemap: right
 sitemap-heading: What We Don’t Do
 sitemap-sort: 20
-breadcrumbs: true
+breadcrumbs: false
 ---
 
 ## What We Don’t Do

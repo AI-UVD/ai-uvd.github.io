@@ -15,7 +15,7 @@ nav-sort: 60
 sitemap: right
 sitemap-heading: Contact
 sitemap-sort: 30
-breadcrumbs: true
+breadcrumbs: false
 ---
 
 ## Contact
