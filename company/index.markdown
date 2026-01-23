@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Company
+page-title: Company
 hero: true
 hero-image: "https://images.unsplash.com/photo-1695238005211-cf98f378809f?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 hero-leader: AI UVD Limited
