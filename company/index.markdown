@@ -5,7 +5,7 @@ page-image: "https://images.unsplash.com/photo-1695238005211-cf98f378809f?q=80&w
 hero: true
 hero-image: "https://images.unsplash.com/photo-1695238005211-cf98f378809f?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 hero-leader: AI UVD Limited
-hero-heading: Applied Intelligence - Utility Vector for Delivery
+hero-heading: Applied Intelligence - Unified Vector for Delivery
 hero-subheading: Operating and billing company for applied intelligence engagements.
 hero-paragraph-1: AI UVD Limited is the contractual counterparty for clients. It exists to deliver defined work under contract, issue invoices, and absorb operational delivery risk within a single operating entity.
 hero-paragraph-2: AI UVD Limited is positioned as an execution surface - not a personal brand and not an authority layer. It aggregates commercial activity so delivery remains clear, bounded, and commercially defensible.

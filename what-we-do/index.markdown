@@ -68,7 +68,7 @@ When engaged, the company:
 - controls how work is executed
 - remains accountable for outcomes within contract
 
-Authority and long-term judgement may originate elsewhere. AI UVD is the utility vector through which delivery occurs.
+Authority and long-term judgement may originate elsewhere. AI UVD is the unified vector through which delivery occurs.
 
 ---
 
